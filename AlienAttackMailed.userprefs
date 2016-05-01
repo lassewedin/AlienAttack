@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\BugBomber_150715\Assets\Scripts\PlayerControl.cs">
+    <Files>
+      <File FileName="..\..\BugBomber_150715\Assets\Scripts\PlayerControl.cs" Line="49" Column="6" />
+      <File FileName="..\..\BugBomber_150715\Assets\Scripts\Bomb.cs" Line="108" Column="1" />
+      <File FileName="..\..\BugBomber_150715\Assets\Scripts\Interactable.cs" Line="7" Column="35" />
+      <File FileName="f:\Unity\BugBomber_150715\Assets\Scripts\BlockRedExplode.cs" Line="25" Column="15" />
+      <File FileName="f:\Unity\BugBomber_150715\Assets\Scripts\BlockTough.cs" Line="22" Column="15" />
+      <File FileName="f:\Unity\BugBomber_150715\Assets\Scripts\LevelManager.cs" Line="29" Column="146" />
+      <File FileName="..\..\BugBomber_150715\Assets\Scripts\CursorTracker.cs" Line="1" Column="1" />
+      <File FileName="..\..\BugBomber_150715\Assets\Scripts\Weapon.cs" Line="6" Column="45" />
+      <File FileName="..\..\BugBomber_150715\Assets\Scripts\Vector3Int.cs" Line="17" Column="2" />
+      <File FileName="..\..\BugBomber_150715\Assets\Scripts\Bullet.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
